@@ -65,7 +65,6 @@ fcitx5-configtool
 fcitx5-gtk
 fcitx5-qt
 fcitx5-rime
-fcitx5-pinyin
 fcitx5-chinese-addons
 
 # apps
@@ -85,3 +84,6 @@ go
 # pkg manage tool
 flatpak
 linyaps
+
+# cups
+cups
