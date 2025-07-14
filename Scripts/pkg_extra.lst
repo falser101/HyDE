@@ -1,11 +1,11 @@
 # --------------------------------------------------- // System
-# downgrade                                            # downgrade packages
+downgrade                                            # downgrade packages
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
 wttrbar                                                # for weather
 python-requests|wttrbar                                # script dependency
-ddcui                                                  # GUI to control brightness for external monitors
+# ddcui                                                  # GUI to control brightness for external monitors
 # hyprgui-bin                                          # GUI for hyprland configuration // might mess your userprefs but convenient // Just disappeared
 # power-profiles-daemon                                # for managing power profiles from waybar
 
@@ -59,9 +59,17 @@ duf|zsh                                                  # prettier version of d
 # --------------------------------------------------- // OSD
 swayosd-git                                             #A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 
+# fcitx5
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-qt
+fcitx5-rime
+fcitx5-pinyin
+fcitx5-chinese-addons
+
 # apps
 wechat-universal-bwrap 
-com.qq.weixin.work.deepin
 feishu-bin
 zen-browser-bin
 visual-studio-code-bin
