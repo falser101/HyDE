@@ -59,6 +59,14 @@ duf|zsh                                                  # prettier version of d
 # --------------------------------------------------- // OSD
 swayosd-git                                             #A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 
+# hyprpm dependency
+cmake
+meson
+cpio
+pkg-config
+git
+gcc
+
 # fcitx5
 fcitx5
 fcitx5-configtool
@@ -68,12 +76,12 @@ fcitx5-rime
 fcitx5-chinese-addons
 
 # apps
-wechat-universal-bwrap 
 feishu-bin
 zen-browser-bin
 visual-studio-code-bin
 jetbrains-toolbox
 linuxqq
+clash-verge-rev-bin
 
 # java
 jdk17-openjdk
@@ -87,3 +95,15 @@ linyaps
 
 # cups
 cups
+
+# fonts
+ttf-roboto
+noto-fonts
+noto-fonts-cjk
+adobe-source-han-sans-cn-fonts
+adobe-source-han-serif-cn-fonts
+ttf-dejavu
+wqy-microhei
+
+# firefox Speech Dispatcher
+speech-dispatcher

@@ -31,7 +31,7 @@ This is a punnet square of the flags, But the outputs are unexpected
 | N                 |  backup               |  do nothing |
 |-------------------|-----------------------|-------------|
 
-
+N|Y|${HOME}|.config/fontconfig/fonts.conf ttf-roboto noto-fonts noto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts ttf-dejavu 
 N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
 N|Y|${HOME}|.vimrc|vim
 N|Y|${HOME}/.config/starship|starship.toml|starship
