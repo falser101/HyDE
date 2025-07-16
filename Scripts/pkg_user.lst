@@ -1,0 +1,54 @@
+# hyprpm dependency
+cmake
+meson
+cpio
+pkg-config
+git
+gcc
+
+# fcitx5
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-qt
+fcitx5-rime
+fcitx5-chinese-addons
+
+# apps
+feishu-bin
+zen-browser-bin
+visual-studio-code-bin
+jetbrains-toolbox
+linuxqq
+clash-verge-rev-bin
+obs-studio
+
+# java
+jdk17-openjdk
+maven
+
+# k8s
+kubectl
+helm
+
+# go
+go
+
+# pkg manage tool
+flatpak
+linyaps
+
+# cups
+cups
+
+# fonts
+ttf-roboto
+noto-fonts
+noto-fonts-cjk
+adobe-source-han-sans-cn-fonts
+adobe-source-han-serif-cn-fonts
+ttf-dejavu
+wqy-microhei
+
+# firefox Speech Dispatcher
+speech-dispatcher
